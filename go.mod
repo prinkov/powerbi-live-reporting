@@ -1,6 +1,6 @@
 module powerbi-live-reporting
 
-go 1.14
+go 1.15
 
 require (
 	github.com/caarlos0/env/v6 v6.4.0
